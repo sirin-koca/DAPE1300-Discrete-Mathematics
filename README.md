@@ -14,5 +14,6 @@
 * Differensligninger
 * Relasjoner, ordninger
 * Grafer og trær
+
 ---
 ![Discrete Mathematics](diskmatte-embded.png)
