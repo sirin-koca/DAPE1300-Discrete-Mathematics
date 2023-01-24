@@ -1,4 +1,4 @@
-# DAPE1300-Discrete-Mathematics
+# DAPE1300-Discrete-Mathematics ➗
 ### FAGETS EMNER:
 
 * Teoretisk informatikk
