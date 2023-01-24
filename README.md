@@ -42,4 +42,6 @@ Discrete Math by Kimberly Brehm: [Video Lectures](https://www.youtube.com/watch?
 
 ---
 ![Discrete Mathematics](hero-image-diskmatte-johnhopkins.jpeg)
+_img curtasy: johns hopkins university_
+
 ---
