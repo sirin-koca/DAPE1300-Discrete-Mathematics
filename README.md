@@ -1,43 +1,26 @@
 # DAPE1300-Discrete-Mathematics 🔢
-### FAGETS EMNER:
+### Course subjects
 
-* Teoretisk informatikk
-* Logikk og predikatlogikk
-* Mengdelære: Kvantitativ teori
-* Generelle funksjoner
-* Følger og rekker
-* Tallmatriser og logiske matriser
-* Algoritmer og algoritmeanalyse
-* Tallteori, heltallsregning
-* Tallsystemer, kongruensregning
-* Bevis og induksjon
-* Oppregning og utvalg
-* Binomial koeffisient
-* Kombinatorikk og permutasjoner
-* Differensiallikninger
-* Relasjoner, ordninger
-* Grafteori og trær
-
-English:
-* Theoretical computer science
-* Logic and predicate logic
-* Quantitative theory
-* General functions
-* Follows, relations, reaches
-* Number matrices and logical matrices
-* Algorithms and algorithm analysis
-* Number theory, integer arithmetic
-* Number systems, congruence calculus
-* Proof and induction
-* Enumeration and selection
-* Binomial coefficient
-* Combinatorics and permutations
-* Differential equations
-* Relationships, arrangements
-* Graph theory and trees
+| Norwegian                         | English                               |
+| --------------------------------- |---------------------------------------|
+| Teoretisk informatikk             | Theoretical computer science          |
+| Logikk og predikatlogikk          | Logic and predicate logic             |
+| Mengdelære: Kvantitativ teori     | Quantitative theory                   |
+| Generelle funksjoner              | General functions                     |
+| Følger og rekker                  | Follows, relations, reaches           |
+| Tallmatriser og logiske matriser  | Number matrices and logical matrices  |
+| Algoritmer og algoritmeanalyse    | Algorithms and algorithm analysis     |
+| Tallteori, heltallsregning        | Number theory, integer arithmetic     |
+| Tallsystemer, kongruensregning    | Number systems, congruence calculus   |
+| Bevis og induksjon                | Proof and induction                   |
+| Oppregning og utvalg              | Enumeration and selection             |
+| Binomial koeffisient              | Binomial coefficient                  |
+| Kombinatorikk og permutasjoner    | Combinatorics and permutations        |
+| Differensiallikninger             | Differential equations                |
+| Relasjoner, ordninger             | Relationships, arrangements           |
+| Grafteori og trær                 | Graph theory and trees                |
 
 ---
-
 Discrete Math by Kimberly Brehm: [Video Lectures](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PL_i8siNd6UcYh4oqn2KHh8hzzCPrTjM11&index=1)
 
 ---
