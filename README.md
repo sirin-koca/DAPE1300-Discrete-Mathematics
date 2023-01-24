@@ -23,7 +23,7 @@ English:
 * Logic and predicate logic
 * Quantitative theory
 * General functions
-* Follows and reaches
+* Follows, relations, reaches
 * Number matrices and logical matrices
 * Algorithms and algorithm analysis
 * Number theory, integer arithmetic
