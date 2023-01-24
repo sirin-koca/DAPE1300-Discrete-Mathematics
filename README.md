@@ -1,19 +1,40 @@
 # DAPE1300-Discrete-Mathematics
 ### FAGETS EMNER:
 
-* Utsagnslogikk og predikatlogikk
-* Mengdelære
+* Teoretisk informatikk
+* Logikk og predikatlogikk
+* Mengdelære: Kvantitativ teori
 * Generelle funksjoner
 * Følger og rekker
 * Tallmatriser og logiske matriser
-* Algoritmer og algoritmeorden
-* Tallteori, heltallsregning, tallsystemer, kongruensregning
-* Bevisteknikk, induksjon
-* Opptelling, utvalg, binomialkoeffisienter
-* Permutasjoner
-* Differensligninger
+* Algoritmer og algoritmeanalyse
+* Tallteori, heltallsregning
+* Tallsystemer, kongruensregning
+* Bevis og induksjon
+* Oppregning og utvalg
+* Binomial koeffisient
+* Kombinatorikk og permutasjoner
+* Differensiallikninger
 * Relasjoner, ordninger
-* Grafer og trær
+* Grafteori og trær
+
+English:
+* Theoretical computer science
+* Logic and predicate logic
+* Quantitative theory
+* General functions
+* Follows and reaches
+* Number matrices and logical matrices
+* Algorithms and algorithm analysis
+* Number theory, integer arithmetic
+* Number systems, congruence calculus
+* Proof and induction
+* Enumeration and selection
+* Binomial coefficient
+* Combinatorics and permutations
+* Differential equations
+* Relationships, arrangements
+* Graph theory and trees
 
 ---
 
