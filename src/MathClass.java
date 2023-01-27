@@ -27,7 +27,5 @@ public class MathClass {
         int biggest = Math.max(nr1, nr2);
         int smallest = Math.min(nr1, nr2);
         System.out.println("The max-nr is: " + biggest + ", and the min nr is: " + smallest);
-
-
     }
 }
