@@ -1,11 +1,12 @@
 public class Predikatlogikk {
     public static void main(String[] args) {
-        int n = 11;
-        boolean svar = p(n);
-        System.out.println(n + " > 10 = " + svar);
+        int x = 11;
+        boolean svar = predicate(x);
+        System.out.println("Predicate(x) = x > 10, x=" + x);
+        System.out.println(x + " > 10 = " + svar);
     }
 
-    public static boolean p(int x){ // P(x) : ( x> 10)
+    public static boolean predicate(int x){ // P(x) : ( x> 10)
         return x > 10;
     }
 }
