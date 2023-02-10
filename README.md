@@ -25,7 +25,7 @@ Discrete Math by Kimberly Brehm: [Video Lectures](https://www.youtube.com/watch?
 
 ---
 
-#### Many concepts in discrete mathematics can be written in Java. 
+#### Many concepts in discrete mathematics can be written in [Java](https://github.com/sirin-koca/Java-Basics/tree/master/src) 
 
 Some examples include:
 
